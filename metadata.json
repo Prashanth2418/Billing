@@ -1,0 +1,6 @@
+{
+  "name": "Seafood Restaurant Billing & POS",
+  "description": "Fast and easy billing website for seafood restaurants. Manage table orders, itemized seafood bills, thermal receipts, and daily sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
